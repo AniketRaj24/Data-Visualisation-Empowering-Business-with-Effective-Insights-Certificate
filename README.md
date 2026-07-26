@@ -38,7 +38,7 @@ Effective data visualization helps businesses:
 
 📄 `certificate.pdf` *(or `certificate.png`)* — see attached file in this folder.
 
-![Certificate](Certificate.png)
+![Certificate](https://github.com/AniketRaj24/Data-Visualisation-Empowering-Business-with-Effective-Insights-Certificate/blob/main/Certificate.PNG)
 
 ---
 
