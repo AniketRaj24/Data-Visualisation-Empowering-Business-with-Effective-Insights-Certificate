@@ -6,8 +6,8 @@ This certificate was awarded for completing **"Data Visualisation: Empowering
 Business with Effective Insights"**, a course focused on using data visualization
 tools to turn raw business data into clear, actionable insights.
 
-- **Platform:** *(e.g. Coursera / edX / Simplilearn / Great Learning)*
-- **Issued:** *(Month Year)*
+- **Platform:** *(Forage)*
+- **Issued:** *(15th April, 2026)*
 - **Tool(s) covered:** Power BI
 
 ## Topic Overview
